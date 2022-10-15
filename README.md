@@ -4,7 +4,7 @@
 
 Heroku app: <https://jpa03-glt.herokuapp.com/>
 
-Source repo: <https://ucsb-cs156-f22.github.io/jpa03-eduglt-docs/>
+Source repo: <https://github.com/ucsb-cs156-f22/jpa03-eduglt/>
 
 Storybook is here:
 * Production: <https://ucsb-cs156-f22.github.io/jpa03-eduglt-docs/>
