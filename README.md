@@ -2,8 +2,10 @@
 
 # demo-spring-react-example-v2: dsre-v2
 
+Source Repo: <https://jpa03-glt.herokuapp.com/>
+
 Storybook is here:
-* Production: <https://ucsb-cs156-f22.github.io/STARTER-jpa03-docs/>
+* Production: <https://ucsb-cs156-f22.github.io/jpa03-eduglt-docs/>
 * QA:  <https://ucsb-cs156-f22.github.io/STARTER-jpa03-docs-qa/>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
