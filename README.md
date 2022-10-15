@@ -2,7 +2,9 @@
 
 # demo-spring-react-example-v2: dsre-v2
 
-Source Repo: <https://jpa03-glt.herokuapp.com/>
+Heroku app: <https://jpa03-glt.herokuapp.com/>
+
+Source repo: <https://ucsb-cs156-f22.github.io/jpa03-eduglt-docs/>
 
 Storybook is here:
 * Production: <https://ucsb-cs156-f22.github.io/jpa03-eduglt-docs/>
